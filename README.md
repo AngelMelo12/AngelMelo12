@@ -1,6 +1,10 @@
 <img src="https://i.ibb.co/LvtbMQm/ANG-LICA-MELO.png" width="100%">
 
+##
+
 ## Olá! Eu sou a Angelica Melo.
+
+##
 
 - 💻 Estudante de Desenvolvimento Web Front-End na Laboratoria.
 - 🎒 Atualmente estudo sobre: Javascript | HMTL | CSS | UX/UI | NODE.JS | REACT.
