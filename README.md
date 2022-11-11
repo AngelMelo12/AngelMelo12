@@ -19,8 +19,8 @@
  
   ##
   
-- 🚀 Sempre fui movida a mudanças e apaixonada por soluções. Depois de formada em Logística e atuando com sucesso na área por 13 anos, decidi que era o momento de trilhar um novo caminho. Ingressei no Bootcamp da Laboratoria com o objetivo de me desenvolver e crescer na área de tecnologia. 
-Acredito muito no propósito da inserção de mulheres em todas as áreas, e estou nesse momento focada em somar todo o meu conhecimento e minha experiência, para contribuir com um mercado de trabalho mais diversificado e atestar que lugar de mulher é onde ela quiser.
+-  Sempre fui movida a mudanças e apaixonada por soluções. Depois de formada em Logística e atuando com sucesso na área por 13 anos, decidi que era o momento de trilhar um novo caminho. Ingressei no Bootcamp da Laboratoria com o objetivo de me desenvolver e crescer na área de tecnologia. 
+Acredito muito no propósito da inserção de mulheres em todas as áreas, e estou nesse momento focada em somar todo o meu conhecimento e minha experiência, para contribuir com um mercado de trabalho mais diversificado e atestar que lugar de mulher é onde ela quiser. 🚀
 
 ##
 
