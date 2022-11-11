@@ -2,7 +2,7 @@
 
 ##
 
-## Olá! Eu sou a Angelica Melo.
+## Olá! Eu sou a Angelica Melo, bem-vinde ao meu perfil!
 
 ##
 
