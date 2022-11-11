@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/yYVcJrw/ang-LICA-MELO.png" width="100%">
+<img src="https://i.ibb.co/LvtbMQm/ANG-LICA-MELO.png" width="100%">
 
 ## Olá! Eu sou a Angelica Melo.
 
