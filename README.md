@@ -6,7 +6,7 @@
 
 ##
 
-- 💻 Estudante de Desenvolvimento Web Front-End na Laboratoria.
+- 💻 Estudante de Desenvolvimento Web Front-End.
 - 🎒 Atualmente estudo sobre: Javascript | HMTL | CSS | UX/UI | NODE.JS | REACT.
 
 <div style="display: inline_block"><br>
